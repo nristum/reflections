@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was quite easy to see the typo as you could see before & after versions of the code
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It's quite simple to see code changes that have been introduced more recently. A change in bahviour of a program is typically attributed to a coding or environmental change. Going back to the last known good state is made simpler.
+
